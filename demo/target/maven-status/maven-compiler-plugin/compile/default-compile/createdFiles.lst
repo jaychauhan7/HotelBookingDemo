@@ -1,0 +1,8 @@
+com\example\hotel\model\Hotel.class
+com\example\hotel\util\DataLoader.class
+com\example\hotel\HotelReservationApplication.class
+com\example\hotel\controller\HotelController.class
+com\example\hotel\model\RoomType.class
+com\example\hotel\model\Room.class
+com\example\hotel\service\HotelService.class
+com\example\hotel\model\Booking.class
